@@ -1,0 +1,4 @@
+'Age','Sex','ChestPainType','RestingBP','Cholesterol','FastingBS','RestingECG','MaxHR','ExerciseAngina','Oldpeak','ST_Slope','output','flag','username','timestamp'
+'','M','TA','','','','Normal','','N','','Up','','','','2022-06-30 20:54:27.992115'
+'','M','TA','','','','Normal','','N','','Up','','','','2022-06-30 20:54:28.950434'
+'28','M','ATA','140','250','0','Normal','1','N','1','Up','{''Age'': ''28'', ''Sex'': ''M'', ''ChestPainType'': ''ATA'', ''RestingBP'': ''140'', ''Cholesterol'': ''250'', ''FastingBS'': ''0'', ''RestingECG'': ''Normal'', ''MaxHR'': ''1'', ''ExerciseAngina'': ''N'', ''Oldpeak'': ''1'', ''ST_Slope'': ''Up'', ''Label'': 0, ''Score_0'': 0.5034, ''Score_1'': 0.4966}','','','2022-06-30 21:57:51.425814'

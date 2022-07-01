@@ -1,0 +1,7 @@
+Fonte dos dados: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+!pip install pandas
+!pip install plotly
+!pip install pycaret  
+ou
+!pip install pycaret[full]
